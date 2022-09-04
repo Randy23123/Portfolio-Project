@@ -1,0 +1,53 @@
+*, html {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #bed4e2;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    align-items: center;
+    display: flex;
+    padding: 20px;
+    background-color: #6c6a6a;
+}
+
+nav a{
+    color: blue;
+    padding-right: 3px;
+}
+
+h2{
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    padding-right: 825px;
+}
+
+h4{
+    margin: 20px;
+    font-size: 23px;
+}
+
+ p{
+    font-size: 20px;
+    margin: 0px 40px 0px 40px;
+}
+
+main img{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    align-items: center;
+    vertical-align: middle;
+}
+article img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
